@@ -10,7 +10,7 @@ function Home() {
                 <div className="home-content">
                     <div className="home-actions">
                         <h1 className="home-title">
-                            Faça seu pedido,<br /> e entregaremos <br /> para você <br />
+                            Cabeças pequenas,<br /> grandes ideias!  <br />
                         </h1>
                         <h3 className="home-subtitle">
                             Escolha o seu pedido e em poucos minutos <br /> levaremos até sua porta.

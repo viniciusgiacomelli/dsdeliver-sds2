@@ -6,7 +6,12 @@ import { ReactComponent as LinkedinIcon} from './linkedin.svg';
 function Footer () {
     return (
         <footer className="main-footer">
-            App desenvolvido por VINICIUS GIACOMELLI durante a 2º ed. do evento Semana DevSuperior  
+            <div>
+                <a >
+
+                </a>
+            </div>
+            App desenvolvido por VINICIUS GIACOMELLI
             <div className="footer-icons">
                 <a href="https://www.youtube.com" target="_new">
                     <YoutubeIcon/>

@@ -86,3 +86,11 @@
       width: 80%;
     }
   }
+
+  @media(max-width: 420px){
+
+    .home-subtitle{
+      display:none;
+    }
+
+  }

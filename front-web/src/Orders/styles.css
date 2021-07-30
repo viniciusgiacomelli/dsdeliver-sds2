@@ -292,3 +292,10 @@
       width: 100%;
     }
   }
+
+  @media(max-width:420px){
+
+    .order-card-container{
+      width: 100%;
+    }
+  }

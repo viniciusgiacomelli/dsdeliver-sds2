@@ -9,7 +9,7 @@ function Footer () {
     return (
         <footer className="main-footer">
 
-
+            <p> App desnvolvido durante o evento SDS2 DevSuperior</p>
             <div className="footer-icons">
                 <a href="https://www.youtube.com" target="_new">
                     <YoutubeIcon/>
